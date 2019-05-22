@@ -11,4 +11,4 @@
   <li>Lucas Santos</li>
 </ul>
 
-<strong><font color="blue">LINK APK:</font> https://mega.nz/#!ETxWiCwT!Iqnichr5lML0pXv9MWCoWkhVIcoQam3L6dZvfHNeU1c</strong>
+<font color="blue"><strong>LINK APK: https://mega.nz/#!ETxWiCwT!Iqnichr5lML0pXv9MWCoWkhVIcoQam3L6dZvfHNeU1c</strong></font>
